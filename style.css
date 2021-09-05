@@ -1,0 +1,281 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.hading{
+  width: 1024px;
+  margin: auto;
+}
+.menu {
+  background-color: rgb(43 60 81);
+  padding: 100px;
+  text-align: center;
+  padding-top: 55px;
+  position: relative;
+}
+
+ul.menu_ul li {
+  display: inline-block;
+  position: relative;
+}
+
+ul.menu_ul li a {
+  text-decoration: none;
+  border: 2px solid orange;
+  background-color: orange;
+  padding: 11px 13px;
+  color: darkblue;
+}
+
+span {
+  width: 5px;
+  height: 17px;
+  position: absolute;
+  top: 85px;
+  background-color: white;
+  left: 398px;
+}
+
+ul.menu_ul {
+  
+}
+
+b {
+  position: absolute;
+  font-size: 25px;
+  top: 99px;
+  left: 395px;
+  color: orange;
+}
+.div4 {
+  width: 5px;
+  height: 16px;
+  position: absolute;
+  top: 85px;
+  background-color: white;
+  left: 614px;
+}
+
+element.style {
+}
+.div44 {
+    position: absolute;
+    top: 101px;
+    left: 612px;
+    font-size: 21px;
+    color: orange;
+}
+.div2 {
+  display: inline-block;
+  position: absolute;
+  width: 5px;
+  height: 16px;
+  left: 466px;
+  background-color: white;
+  top: 85px;
+}
+
+.div22 {
+  display: inline-block;
+  position: absolute;
+  top: 101px;
+  left: 463px;
+  font-size: 21px;
+  color: orange;
+}
+.div3 {
+  display: inline-block;
+  position: absolute;
+  width: 5px;
+  height: 16px;
+  left: 538px;
+  background-color: white;
+  top: 85px;
+}
+
+.div33 {
+  display: inline-block;
+  position: absolute;
+  top: 102px;
+  left: 536px;
+  font-size: 20px;
+  color: orange;
+}
+
+.content {
+  text-align: center;
+  background-color: #ddd;
+}
+
+.content h1 {
+  color: #337033;
+  padding: 14px 0px;
+}
+.dash {
+  border-top: 3px #337033 dashed;
+}
+.box {
+  overflow: hidden;
+  padding: 25px 0px;
+}
+
+.box-1 {
+  width: 232px;
+  border: 2px black solid;
+  float: left;
+  padding: 18px 0px;
+  border-radius: 15px;
+  margin-right: 48px;
+  margin-left: 61px;
+  box-shadow:0px 3px 16px black;
+}
+
+.box-2 {width: 232px;
+  border: 2px black solid;
+  float: left;
+  padding: 18px 0px;
+  border-radius: 15px;
+  margin-right: 48px;
+  margin-left: 55px;
+  box-shadow: 0px 3px 16px black;}
+
+.box-3 {width: 232px;
+  border: 2px black solid;
+  float: left;
+  padding: 18px 0px;
+  border-radius: 15px;
+  margin-right: 48px;
+  margin-left: 55px;
+  box-shadow: 0px 3px 16px black;}
+
+.box-1 i {
+  font-size: 50px;
+  color: #337033;
+  padding-bottom: 9px;
+}
+
+.box-1 h2 {
+  font-size: 20px;
+  color: #641919;
+}
+
+.box-1 p {
+  font-size: 16px;
+  padding: 5px;
+}
+.box-2 i {
+  font-size: 50px;
+  color: #337033;
+  padding-bottom: 9px;
+}
+
+.box-2 h2 {
+  font-size: 20px;
+  color: #641919;
+}
+
+.box-2 p {
+  font-size: 16px;
+  padding: 5px;
+}
+
+.box-3 i {
+  font-size: 50px;
+  color: #337033;
+  padding-bottom: 9px;
+}
+
+.box-3 h2 {
+  font-size: 20px;
+  color: #641919;
+}
+
+.box-2 p {
+  font-size: 16px;
+  padding: 5px;
+}
+.round-3 {
+  width: 300px;
+  height: 300px;
+}
+
+.round-3 img {
+  max-width: 37%;
+  border-radius: 50%;
+  /* border: 2px green dashed; */
+  margin-top: 59px;
+  margin-left: 432px;
+  border: 5px #eba91a solid;
+}
+
+.fotter {
+  position: relative;
+  background-color: #9f19b1;
+  /* margin-top: 8px; */
+  height: 290px;
+  text-align: center;
+}
+
+.round-1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 95px;
+  left: 233px;
+  background-color: #2f4142;
+  border-radius: 50%;
+  border: 3px #ffae00 dashed;
+}
+
+.round-2 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 18px;
+  left: 324px;
+  background-color: #2f4142;
+  border-radius: 50%;
+  border: 3px #ffae00 dashed;
+}
+
+.round-4 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 15px;
+  left: 571px;
+  background-color: #2f4142;
+  border-radius: 50%;
+  border: 3px #ffae00 dashed;
+}
+
+.round-5 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 85px;
+  left: 672px;
+  background-color: #2f4142;
+  border-radius: 50%;
+  border: 3px #ffae00 dashed;
+}
+.input input {margin-top: 4px;border-radius: 10px;font-size: 13px;padding: 2px 8px;}
+
+.input {
+    margin-top: -115px;
+}
+
+.input input:last-child {
+    background-color: #9f19b1;
+    color: white;
+    border: 1px black solid;
+}
+.foter-text {
+  text-align: center;
+  background-color: #284247;
+  padding: 5px 0px;
+  padding-bottom: 15px;
+  font-size: 11px;
+  color: white;
+}
+
